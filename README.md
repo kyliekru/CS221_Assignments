@@ -1,6 +1,6 @@
 # Image Block Manipulator
 
-This project is a C++ program designed to manipulate images by dividing them into blocks, performing various transformations on these blocks, and reassembling them into a final image. The program leverages classes such as `Block` and `Chain` for handling and processing image data.
+This project is a C++ program designed to manipulate images by dividing them into blocks, performing various simple transformations on these blocks, and reassembling them into a final image. The program leverages classes such as `Block` and `Chain` for handling and processing image data.
 
 ## Features
 
