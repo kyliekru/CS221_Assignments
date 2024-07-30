@@ -8,6 +8,11 @@ This project is a C++ program designed to manipulate images by dividing them int
 - **Chaining Blocks**: The `Chain` class manages sequences of blocks, allowing for complex manipulations and reassembling them into a final image.
 - **Rendering**: Reassemble manipulated blocks into a final image.
 
+## Usage  
+
+**Build**: ```make```  
+**Run**: ```./pa1```
+
 ## Dependencies
 
 - Standard C++ libraries
